@@ -1,1 +1,2 @@
-# progress_payment
+# React + Vite
+
